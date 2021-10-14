@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickSardelis
 - 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning Python, Javascript, HTML5
+- 🌱 I’m currently learning Python, Javascript, HTML5/CSS
 - 📫 How to reach me : nicksardelis@outlook.com
 
 <!---
